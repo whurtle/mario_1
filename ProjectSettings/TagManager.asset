@@ -9,6 +9,7 @@ TagManager:
   - Lava
   - Brick
   - Question
+  - Pole
   layers:
   - Default
   - TransparentFX

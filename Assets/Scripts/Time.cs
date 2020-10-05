@@ -26,6 +26,7 @@ public class Time : MonoBehaviour
         else
         {
             timerText.text = 0.ToString();
+            Debug.Log("GAME OVER!");
         }
     }
 
